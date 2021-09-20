@@ -1,6 +1,6 @@
 # Virtual-Piano-MyPiano
 
 Virtual Piano/MyPiano Android Application using Android Studio
-  -Virtual Piano with dark and light theme
-  -About button that navigates to other page
-  -Exit App button
+\n  -Virtual Piano with dark and light theme
+\n  -About button that navigates to other page
+\n  -Exit App button
