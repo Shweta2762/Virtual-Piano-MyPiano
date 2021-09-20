@@ -1,4 +1,4 @@
-# Virtual-Piano-MyPiano
+# Virtual-Piano-MyPiano Android Studio
 
 Virtual Piano/MyPiano Android Application using Android Studio
 \n  -Virtual Piano with dark and light theme
